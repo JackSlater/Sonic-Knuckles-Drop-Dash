@@ -4,7 +4,7 @@ Sonic & Knuckles ROM hack that adds the Drop Dash ability from Sonic Mania!
 
 ## Download
 
-Grab the latest `skbuilt.bin` file from the releases.
+Grab the latest `skbuilt.bin` or `skbuilt.gen` file from the releases.
 
 ## How to Play
 
